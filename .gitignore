@@ -1,0 +1,16 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# NOTE: data/ is deliberately NOT ignored. The scrubbed source workbook
+# in data/source/ is part of the repository so the checklist can be
+# regenerated from it. (A bare `data/` ignore entry once broke CI in a
+# sibling project by hiding the data the tests needed.)

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Interactive checklist of GSA Multiple Award Schedule (MAS) new-offer submission requirements, generated from the June 2025 GSA checklist workbook. Progress is saved only in your browser.">
+<title>GSA MAS New Offer Checklist</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231d4ed8'/%3E%3Cpath d='M4 8.5 7 11 12 5' stroke='white' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+<script>
+  // Apply the saved theme before styles paint, to avoid a flash.
+  // This runs before the stylesheet loads; localStorage may be
+  // unavailable (private mode), so failures are ignored silently.
+  try {
+    var saved = localStorage.getItem("gsa-offer-checklist.v1.theme");
+    var theme = saved === "dark" || saved === "light"
+      ? saved
+      : (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", theme);
+  } catch (e) { /* use the default theme */ }
+</script>
+</head>
+<body>
+<a class="skip-link" href="#checklist">Skip to checklist</a>
+
+<header class="page-header">
+  <div class="header-row">
+    <div>
+      <h1>GSA MAS New Offer Checklist</h1>
+      <p class="subtitle">Interactive version of the GSA Multiple Award Schedule new-offer submission checklist.</p>
+    </div>
+    <button type="button" id="theme-toggle" aria-pressed="false">Dark mode</button>
+  </div>
+  <p class="warning" role="note"><strong>Check the current solicitation before you rely on this list.</strong>
+    The content below comes from the June 2025 GSA checklist workbook and
+    SCP-FSS-001, MAS Refresh 16 (July 2023). Later refreshes may have changed
+    requirements. This tool is not affiliated with GSA and is not legal advice.</p>
+  <p class="data-meta" id="data-meta">Loading checklist data&hellip;</p>
+</header>
+
+<main>
+  <section class="card" aria-labelledby="progress-heading">
+    <h2 id="progress-heading">Your progress</h2>
+    <div class="progress-row">
+      <div class="progress-track" role="progressbar" id="progress-bar"
+           aria-label="Checklist progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <p class="progress-text" id="progress-text">0 of 0 items complete</p>
+    </div>
+    <p class="hint">Checking an item marks it complete and saves it in this browser only. Nothing is sent anywhere.</p>
+  </section>
+
+  <section class="card" aria-labelledby="offer-heading">
+    <h2 id="offer-heading">Offer details</h2>
+    <p class="hint">Optional. Saved in this browser only, and included in JSON/CSV exports.</p>
+    <form id="offer-form">
+      <div class="form-grid">
+        <div class="field">
+          <label for="offeror-name">Offeror name</label>
+          <input type="text" id="offeror-name" name="offerorName" autocomplete="organization">
+        </div>
+        <div class="field">
+          <label for="offer-number">Offer number</label>
+          <input type="text" id="offer-number" name="offerNumber">
+        </div>
+        <div class="field">
+          <label for="uei">UEI</label>
+          <input type="text" id="uei" name="uei" inputmode="alphanumeric">
+        </div>
+        <div class="field">
+          <label for="sins-offered">SINs offered</label>
+          <input type="text" id="sins-offered" name="sinsOffered" placeholder="e.g., 54151S, 54151HACS">
+        </div>
+        <div class="field">
+          <span class="label" id="commodity-label">Commodity type</span>
+          <div class="radio-row" role="radiogroup" aria-labelledby="commodity-label">
+            <label><input type="radio" name="commodityType" value="product" checked> Product</label>
+            <label><input type="radio" name="commodityType" value="services"> Services</label>
+            <label><input type="radio" name="commodityType" value="both"> Both</label>
+          </div>
+        </div>
+      </div>
+    </form>
+  </section>
+
+  <section class="card toolbar" aria-label="Checklist tools">
+    <div class="toolbar-row">
+      <div class="field search-field">
+        <label for="search">Search requirements</label>
+        <input type="search" id="search" placeholder="Search text, references, SINs&hellip;" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="group-filter">Category</label>
+        <select id="group-filter">
+          <option value="all">All categories</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="status-filter">Show</label>
+        <select id="status-filter">
+          <option value="all">All items</option>
+          <option value="remaining">Remaining only</option>
+          <option value="completed">Completed only</option>
+          <option value="noted">With my notes only</option>
+        </select>
+      </div>
+    </div>
+    <div class="toolbar-row actions">
+      <button type="button" id="export-json">Export progress (JSON)</button>
+      <button type="button" id="export-csv">Export checklist (CSV)</button>
+      <button type="button" id="import-button">Import progress (JSON)</button>
+      <input type="file" id="import-file" accept=".json,application/json" hidden>
+      <button type="button" id="print-button">Print</button>
+      <button type="button" id="clear-button" class="danger">Clear saved data</button>
+    </div>
+    <p class="status-message" id="status-message" role="status" aria-live="polite"></p>
+  </section>
+
+  <nav class="jump-nav" id="jump-nav" aria-label="Checklist categories"></nav>
+
+  <div id="checklist"></div>
+  <noscript><p class="card">This checklist needs JavaScript to render its items and save your progress. The full requirement list is in <code>checklist.json</code> in this folder.</p></noscript>
+</main>
+
+<dialog id="item-dialog" aria-labelledby="dialog-title">
+  <div class="dialog-head">
+    <h2 id="dialog-title">Requirement details</h2>
+    <button type="button" id="dialog-close" aria-label="Close details">&times;</button>
+  </div>
+  <div class="dialog-body">
+    <p class="dialog-line" id="dialog-line"></p>
+    <div class="dialog-section">
+      <h3>Requirement</h3>
+      <p id="dialog-doc"></p>
+    </div>
+    <div class="dialog-section" id="dialog-ref-section">
+      <h3>Reference</h3>
+      <p id="dialog-ref"></p>
+    </div>
+    <div class="dialog-section" id="dialog-meta-section">
+      <h3>Category details</h3>
+      <p id="dialog-meta"></p>
+    </div>
+    <div class="dialog-section" id="dialog-guidance-section">
+      <h3>Guidance from the source checklist</h3>
+      <p id="dialog-guidance"></p>
+    </div>
+    <div class="dialog-section" id="dialog-provision-section">
+      <h3>SCP-FSS-001 provision text (Refresh 16 excerpt)</h3>
+      <p id="dialog-provision"></p>
+      <p class="hint">Excerpt only. The full solicitation provision governs.</p>
+    </div>
+    <div class="dialog-section">
+      <h3><label for="dialog-note">My note</label></h3>
+      <textarea id="dialog-note" rows="4" placeholder="Add a note for yourself about this requirement&hellip;"></textarea>
+      <div class="dialog-actions">
+        <button type="button" id="dialog-save-note">Save note</button>
+        <button type="button" id="dialog-clear-note">Clear note</button>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<footer>
+  <p><strong>Sources:</strong> GSA New Offer Checklist workbook (June 2025) and
+    <a href="https://www.gsa.gov/system/files/MAS_Refresh_16_SCP-FSS-001_July_2023.pdf">SCP-FSS-001, MAS Refresh 16 (July 2023)</a>.
+    Also see <a href="https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule">GSA Multiple Award Schedule</a>,
+    <a href="https://eoffer.gsa.gov/">eOffer</a>, and <a href="https://sam.gov">SAM.gov</a>.</p>
+  <p>Progress, notes, and offer details are stored only in your browser's local storage under the key <code>gsa-offer-checklist.v1</code>. Use Clear saved data to remove them.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

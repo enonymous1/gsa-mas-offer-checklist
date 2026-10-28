@@ -1,0 +1,1025 @@
+{
+  "meta": {
+    "title": "GSA Multiple Award Schedule (MAS) New Offer Checklist",
+    "sourceFile": "New-Offer-Checklist_June2025_Industry_1_0.xlsx",
+    "sourceDate": "June 2025",
+    "sourceSha256": "c782419ee85d4c42e6b06c7aa166c789f84b94e0331ac178a863436edea0626a",
+    "solicitation": "SCP-FSS-001, MAS Refresh 16 (July 2023)",
+    "generatedBy": "tools/build_data.py",
+    "itemCount": 106,
+    "warning": "Checklist content is from the June 2025 source workbook. Verify every requirement against the current GSA MAS solicitation before submitting an offer; later refreshes may have changed requirements."
+  },
+  "groups": [
+    {
+      "id": "offer-review-checklist",
+      "title": "Offer Review Checklist",
+      "sourceSheet": "Offer Review Checklist",
+      "sections": [
+        {
+          "title": "Preliminary Review",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Offer is current, accurate, and complete, and demonstrates a thorough understanding of solicitation requirements; no exceptions are taken to the terms and conditions or the exceptions are explicitly stated in the offer",
+              "ref": "Provision SCP-FSS-001 (c)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 2,
+              "doc": "Streamlined offer-meets all criteria for submission",
+              "ref": "Provision SCP-FSS-001(d) (1-4)",
+              "comments": "Applicable to Existing Federal Supply Schedule (FSS) Program contractors, and any small business who does not have its own FSS program contract but is performing under an existing FSS program joint venture contract as a joint venture partner. ****Bullet 4 is ONLY applicable to a small business who does not have its own FSS program contract but is performing under an active FSS program joint venture contract as a joint venture partner.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 3,
+              "doc": "Continuous contract offer-meets all criteria for submission",
+              "ref": "Provision SCP-FSS-001(e)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 4,
+              "doc": "If this is an 8(a) offer, did the offeror indicate they are a current 8(a) Program participant at the time of their offer?",
+              "ref": "",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 5,
+              "doc": "Rejection of Offer: If previously rejected, did the offeror provide a response to the rejection letter with their new offer?",
+              "ref": "Provision SCP-FSS-001(i)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        },
+        {
+          "title": "Administrative Proposal",
+          "items": [
+            {
+              "line": 6,
+              "doc": "Vendor acknowledged the “Pathway to Success” training was downloaded and completed within the past 12 months (N/A for streamlined offers).",
+              "ref": "Provision SCP-FSS-001 (j) (1) (i.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 7,
+              "doc": "Vendor acknowledged the Readiness Assessment was downloaded and completed within the past 12 months (N/A for streamlined offers).",
+              "ref": "Provision SCP-FSS-001 (j) (1) (ii.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 8,
+              "doc": "Vendor has valid SAM registration -must be current, accurate, and complete, and reflect the North American Industrial Classification System (NAICS) code(s) for this solicitation and the products/services proposed.",
+              "ref": "Provision SCP-FSS-001 (j) (1) (iii.)",
+              "comments": "889 “Part A”: Ensure that the vendor has completed the provision at 52.212-3(v)(2)(i):  If the vendor indicates that it “does provide” covered telecom in SAM, the vendor is required to complete the provision at 52.204-24(d)(1) via eOffer.\n\n889 “Part B”: Per 52.212-3(v)(2)(ii), if the vendor indicates that it “does use” covered telecomm in SAM, the vendor is required to complete and upload 52.204-24(d)(2) via eOffer and, if necessary, provide the information required at 52.204-24(e)(2) via eOffer. \n\nJoint venture offerors: A joint venture offeror must be a separate legal entity registered in SAM under its own UEI and CAGE code. The joint venture offeror cannot share a UEI or CAGE coe with any of its joint venture partners.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 9,
+              "doc": "If an offeror was previously awarded a Schedule contract, and it was subsequently cancelled or allowed to expire due to low sales or non-compliance with other contract terms and conditions, the offeror provided a detailed description of the steps the offeror plans to take to generate sales and/or ensure compliance through a new contract.",
+              "ref": "Provision SCP-FSS-001 (j) (1) (iv.)",
+              "comments": "Note: > 24 Months since previous contract low sales cancellation/expiration for a new offer for the same SINs will  be rejected.\n\nNote: > 24 Months since previous contract was canceled/expired due to non-compliance for a new offer for any SIN(s) will  be rejected.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 10,
+              "doc": "Financial Documents - annual financial statements for the previous 2 years (balance sheet and income statement), unless submitting under Startup Springboard.** Firm must provide an explanation for any negative financial information disclosed.",
+              "ref": "Provision SCP-FSS-001 (j) (1) (v.)",
+              "comments": "Requirement does not apply to streamline offers (active FSS contract) or small businesses performing under an active FSS  program joint venture contract as a joint venture partner.\n\n**Startup Springboard.  Offerors with less than two (2) years of corporate experience must provide financial documentation that demonstrates the Offeror's financial responsibility. If no financial statements exist, the contracting officer, after submission, may request additional documentation.                                                                                              - The GSA contracting officer (CO) is required to make a determination of financial responsibility as indicated above. Financial documentation submitted by the Offeror in lieu of financial statements must provide the required information to make this determination.\n\nThe Startup Springboard process is available for joint venture offerors with less than two years of corporate experience. When evaluating financial responsibility, the CO will consider financial documentation of the joint venture partners in addition to any financial documentation of the joint venture entity itself.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 11,
+              "doc": "Subcontracting Plan - (As Applicable)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (vi.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 12,
+              "doc": "Agent Authorization Letter - (As Applicable)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (viii.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 13,
+              "doc": "Section 508 Compliance - Section 508 of the Rehabilitation Act, as amended by the Workforce Investment Act of 1998 (P.L. 105-220) requires that when Federal agencies develop, procure, maintain, or use information and communication technology (ICT), it must be accessible to people with disabilities. Federal employees and members of the public who have disabilities must have access to, and use of, information and data that is comparable to people without disabilities. (As Applicable to ICT Offerings only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (ix.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 14,
+              "doc": "TAA Compliance - Country of Origin identified (As Applicable)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (x.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 15,
+              "doc": "Letter of Commitment/Supply - (As Applicable) (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xi.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 16,
+              "doc": "If an item appears to be obsolete the GSA may request additional information, such as confirmation of sufficient availability of supply and may decide the item should not be offered under the MAS program and will not award such item(s).(Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xii.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 17,
+              "doc": "Products that are solely compatible with products that are prohibited for national security reasons (e.g., FAR clauses 52.204-23; 52.204-25; and 52.204-30) may not be offered under MAS contracts.",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xiii.)",
+              "comments": "“Solely compatible products” are items that can only fulfill their intended purpose in conjunction with another product(s). For example, a small pluggable module that only functions with a covered telecommunications equipment as defined in FAR 52.204-25 is considered to be solely compatible with a prohibited product.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 18,
+              "doc": "Dealer/reseller functions described (As Applicable) (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xiv)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 19,
+              "doc": "Ability One - Offeror is an authorized AbilityOne Program distributor (As Applicable) (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xv.)",
+              "comments": "Joint venture offerors: If the joint venture offeror will not source the offered product(s) itself (e.g., unpopulated which means joint venture offeror does not have its own separate employees to perform contracts awarded to the joint venture), the joint venture offeror must provide evidence that the joint venture partner(s) sourcing the products on the AbilityOne Procurement List is an authorized distributor under the AbilityOne Program. The joint venture offeror must also submit evidence of the AbilityOne Commission’s concurrence with the joint venture partner(s) providing products on the AbilityOne Procurement List on behalf of the joint venture entity.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 20,
+              "doc": "Manufacturer Part Number (MPN) and/ or (UPC-A) data must be submitted and accurate (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xvi.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 21,
+              "doc": "Offerors are advised that following contract award, Schedule contractors offering products under designated Special Item Numbers (SINs) must submit detailed electronic contract data, such as, but not limited to, Universal Product Codes (UPC) and product photos for each item offered on GSA Advantage! using the Schedule Input Program (SIP), Electronic Data Interchange (EDI) or other common-use electronic medium prescribed by GSA (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xvii.)",
+              "comments": "Contractors must follow the detailed guidance and requirements provided on the 'Requiremens after getting a MAS contract' page when submitting electronic contract data for inclusion on the GSA Advantage! website",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 22,
+              "doc": "GSA Advantage Purchase Order (PO Portal). The offeror must use EDI, cXML or the GSA Advantage Purchase Order (PO) Portal to provide order acknowledgment information that enables ordering agencies to track the location of an order at any time, from the moment the order is shipped, to the point of delivery and acceptance. (Products Only)",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xviii.)",
+              "comments": "Note: Contractors must provide a valid status for each order line no later than the specified number of days established as the 'Normal Delivery Terms' of the contract.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 23,
+              "doc": "Frustrated Freight (Products only). GSAR Clause 552.211-73, Marking, establishes marking and labeling requirements for shipping Federal Government orders. The Government reserves the right to require sample electronic versions of all documents (including but not limited to: Military Shipping Labels, Packing Lists, Unit Level Markings, HAZMAT related documents, etc.) that are required for compliance with the FED-STD-123 and MIL-STD-129 edition in effect as of the date of solicitation issuance.",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xix.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 24,
+              "doc": "Joint Ventures. All joint venture offerors, regardless of size status, must complete the All Joint Ventures section of the Joint Venture Solicitation Attachment and Appendix A.\n\nIn addition to the All Joint Ventures section and Appendix A, all joint venture offerors representing themselves as a small or socioeconomic category must complete the Small Business Joint Venture section of the Joint Venture Solicitation Attachment and Appendix B (as applicable).",
+              "ref": "Provision SCP-FSS-001 (j) (1) (xx.)",
+              "comments": "**Note: Appendix B of the Joint Venture Solicitation\nAttachment is not required to be completed by a small\nbusiness joint venture offeror between two or more small\nbusinesses who are not mentor-protégé joint ventures (see\n13 CFR 125.8(d)).",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        },
+        {
+          "title": "Technical Proposal",
+          "items": [
+            {
+              "line": 25,
+              "doc": "Factor One - Corporate Experience Narrative (minimum of 2 years required, unless submitting under Startup Springboard**)  (N/A for streamlined offers and small businesses performing under an active FSS program contract as a joint venture partner)",
+              "ref": "Provision SCP-FSS-001 (j) (2) (i.)",
+              "comments": "Document exception to the SCP Provision if necessary                                                                   \n\n**Startup Springboard:  Offerors with less than two (2) years of corporate experience, must submit additional information that demonstrates their ability to manage a company and provide the products/services described under this Schedule. (ie. information on the professional management and project experience of company executives and key personnel)\n\nThe Startup Springboard process is available for joint venture offerors with less than two years of corporate experience. The information required by the Startup Springboard process must be provided for the joint venture entity and/or each of the joint venture partners (each joint venture partner must be addressed in the narrative submitted).",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 26,
+              "doc": "Factor Two - Past Performance (N/A for streamlined offers and small businesses performing under an active FSS program contract as a joint venture partner)",
+              "ref": "Provision SCP-FSS-001 (j) (2) (ii.)",
+              "comments": "Documents not required for streamlined offers\n \nIf the joint venture offeror cannot demonstrate past performance, the joint venture offeror must provide the information required for each joint venture partner in accordance with the instructions below. If the joint venture offeror is a mentor-protégé joint venture or a socioeconomic joint venture, the protégé or socioeconomic category joint venture partner(s) must verify at least one contractor performance assessment report (available in CPARS) in eOffer in accordance with the instructions under (A) or submit at least one customer reference and one (1) past performance questionnaire in accordance with the instructions under (B). The mentor, or other joint venture partner(s) in a socioeconomic joint venture, must satisfy the remaining past performance requirements.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 27,
+              "doc": "Factor Three - Quality Control Narrative",
+              "ref": "Provision SCP-FSS-001 (j) (2) (iii.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 28,
+              "doc": "Factor Four - Relative Project Experience Narrative (Offers Including Services) (N/A for streamlined offers and small businesses performing under an active FSS program contract as a joint venture partner)",
+              "ref": "Provision SCP-FSS-001 (j) (2) (iv.)",
+              "comments": "If a joint venture offeror does not have relevant project experience for a particular SIN, a joint venture partner may submit the required project experience. The narratives must clearly identify the joint venture partner that performed the work. For a mentor-protégé joint venture or socioeconomic joint venture, the protégé and/or socioeconomic joint venture partner must have relevant project experience for at least one of the SIN(s) offered. (Note: Pursuant to SBA requirements, a protege and/or socioeconomic joint venture partner must have some experience in the type of work to be performed under the contract.)",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        },
+        {
+          "title": "Price Proposal",
+          "items": [
+            {
+              "line": 29,
+              "doc": "Completed Price Proposal Template in Excel Format",
+              "ref": "Provision SCP-FSS-001 (j) (3) (ii.)",
+              "comments": "If the joint venture offeror does not have MFC information, it must complete the PPT using the MFC information\nfor the joint venture partner(s) who will be providing the product(s)/service(s) offered.\n\nFor products, the joint venture partner providing the product must be identified in the “Product Name” column of the Products PPT.\n\nFor services, the joint venture partner providing the labor catgeory/service must be identified in the \"Labor Category/Service Title\" column of the Services PPT.\n\nAccessories function similar to base items (can be sold alone or with a base item), each accessory must have supporting documentation to justify price.\n\nOptions have their own part numbers, but cannot be sold independently of a base item or accessory. Options that impact the price of a base item or accessory must have supporting documentation to justify the price.\n\nNote: Proposed prices must be inclusive of all costs associated with acceptance of the Governmentwide commercial purchase card (e.g., payment processing fees). Schedule contractors may not impose a surcharge at the order level for payment by Governmentwide commercial purchase card.  For additional information, see SCP-FSS-001 Instructions Applicable to All Offerors and Smart Bulletin No. 039.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 30,
+              "doc": "Pricing Terms",
+              "ref": "",
+              "comments": "Required for all offerors\n\nLocated on the Required templates for a MAS offeror page",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 31,
+              "doc": "Provide supporting documentation for EACH proposed product/service price. Supporting pricing documentation may consist of published and publicly-available commercial catalogs/price lists, copies of invoices, contracts, or quote\nsheets, and must be submitted with the offer. There must be a clear and relevant relationship between the supporting document and the proposed price it is meant to substantiate. Applicable to Non-TDR Offers only.",
+              "ref": "Provision SCP-FSS-001 (j) (3) (iii.)",
+              "comments": "Supporting documentation may be sourced from the joint venture offeror or a joint venture partner. Note: If the\nproposed pricing for a product, service, or labor category is based on the CSP-1 disclosures of a joint venture partner, the supporting documentation substantiating the proposed price must be from the same joint venture partner.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 32,
+              "doc": "Justification If the pricing offered is not equal to or better than the pricing extended to the Most Favored (commercial) Customer.  Applicable to Non-TDR Offers only",
+              "ref": "Provision SCP-FSS-001 (j) (3) (iv.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 33,
+              "doc": "Proposed Escalation Method: 552.216-70 (EPA) for Commercial Price List; I-FSS-969 (Escalation Rate) for Market Pricing",
+              "ref": "Provision SCP-FSS-001 (j) (3) (v.)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 34,
+              "doc": "Completed Commercial Sales Practices Document (CSP-1) with rationale to support projected MAS sales.  Applicable to Non-TDR Offers only",
+              "ref": "Provision SCP-FSS-001 (j) (3) (vi.)",
+              "comments": "If the joint venture offeror will not perform the service(s) or provide the product(s) offered itself, the joing venture offeror must respond to questions 3, 4, nd 5 by disclosing the commercial sales practices of the joint venture partner who will be providing the product(s)/service(s) under a particular SIN(s). All information must be submitted to eOffer by the joint venture offeror on one CSP-1 form. The disclosure(s) must clearly identify the joint venture partner who will be providing the product(s)/service(s) under a particular SIN(s).",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 35,
+              "doc": "Full and Broad Offering of services and/or products- Offeror must present a total solution.",
+              "ref": "Provision SCP-FSS-001 (j) (3) (vii.)",
+              "comments": "The Government has/has not determined that sales under the resultant contract can reasonably be expected to exceed $100,000 in sales within the first 60 months following contract award, and are expected to exceed $125,000 in sales each 60 month period thereafter.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 36,
+              "doc": "Remanufactured items are only allowable under specific MAS SINs and are designated as such by their SIN description. The remanufactured items must be identified per clause 552.238-78 and meet the prescribed definition of “factory rebuilt to original specifications.” Note: Refurbished, reconditioned, remarketed, repaired items are not within scope of the MAS Solicitation.",
+              "ref": "Provision SCP-FSS-001 (j) (3) (viii.)",
+              "comments": "Allowable SINs: 339940, 339940OS4, 339940OVER,339940SVC (TONER CARTRIDGES ONLY), 33721RSB, 532490ESA, & 336350",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 37,
+              "doc": "Fair and Reasonable Pricing - Applicable to ALL Offers",
+              "ref": "Provision SCP-FSS-001 (j) (3) (ix.)",
+              "comments": "If a joint venture partner holds an individual FSS rpogram contract, the joint venture offeror must upload the joint venture partner's FSS Price List (I-FSS-600), inclsuive of the awarded prices/rates, to eOffer. If the joint venture offeror proposes the same products or services with less favorable pricing or pricing terms than those awarded under a joint venture partner's individual FSS program contract(s), the joint venture offeror must provide written rationale and any supporting evidence/documentation for the less favorable offered prices/rates and/or pricing terms (e.g., labor category performs broader scope of work).",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        },
+        {
+          "title": "Price Proposal - Services Only",
+          "items": [
+            {
+              "line": 38,
+              "doc": "Detailed Position Descriptions for each labor category proposed including minimum years of relevant experience and educational requirements (As applicable for offers containing services SINs)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (x.) (A))",
+              "comments": "For a joint venture offeror who is not performing the labor category(ies)/services itself, each applicable position description must also include the nam eof the joint venture partner that will provide the labor category.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 39,
+              "doc": "Detailed Training Course Descriptions (As applicable for offers containing training SINs)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (x.) (B)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 40,
+              "doc": "Fixed Price Services Descriptions - Must clearly demonstrate how each service is within scope of the applicable SIN(s). (As applicable for offers containing fixed price solutions)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (x.) (C)",
+              "comments": "For a joint venture offeror who does not perform the service itself, each applicable description must also include the name of the joint venture partner that will provide the service.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 41,
+              "doc": "Ancillary Supplies and Services/ODCs Descriptions (As applicable)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (x.) (D)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 42,
+              "doc": "Fully Burdened Rates - All proposed prices must be inclusive of all cost factors",
+              "ref": "Provision SCP-FSS-001 (j) (3) (x.) (E)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 43,
+              "doc": "Professional Compensation Plan - Must be in accordance with provision 52.222-46 Evaluation of Compensation for Professional Employees.\nIndividual compensation disclosure is not required (As applicable for professional services offers)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (xi.)",
+              "comments": "For a joint venture offeror that is unpopulated, the Professional Compensation Plan for each joint venture partner who will be performing the work must be submitted as a substitution for the Professional Compensation Plan of the joint venture offeror itself.",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 44,
+              "doc": "Policy on Uncompensated Overtime - Must clearly show how a company addresses uncompensated overtime without resulting in unreasonably low hourly rates. Reference 52.237-10 for evaluation (As applicable to services offers)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (xii.)",
+              "comments": "For a joint venture offeror that is unpopulated, the joint venture offeror must submit a copy of the policy that addresses uncompensated overtime for each joint venture partner who will be performing the work. The joint venture offeror must also submit its own uncompensated overtime policy if it employs administrative employees or security officers (which is authorized for unpopulated joint ventures).",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 45,
+              "doc": "Service Contract Labor Standards (SCLS) Wage Determination (As Applicable to services offers)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (xiii.) (B)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            },
+            {
+              "line": 46,
+              "doc": "Service Contract Labor Standards (SCLS)/ SCA Matrix must be submitted for all offers that include services. Matrix must list all employees that will work on the subject contract and identify which employees are considered \"Service Employees\" as defined by clause 52.222-41 (As Applicable to services offers)",
+              "ref": "Provision SCP-FSS-001 (j) (3) (xiii.) (C)",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "office-management",
+      "title": "Office Management",
+      "sourceSheet": "Category A-Office Mgmt",
+      "sections": [
+        {
+          "title": "Office Management",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Offeror must be designated as authorized service providers by the Original Equipment Manufacturer (OEM) with access to OEM parts, supplies, retrofits and firmware. Proof in the form of letter(s) from manufacturers, service agreements, certificates of authorization to perform repair work, etc., that clearly states that the contract holder/offeror, is certified/authorized to perform service on the brands listed.",
+              "ref": "Office Management_Category_ Attachment A05. Office Management Maintenance and Repair Subcategory",
+              "comments": "",
+              "subcategory": "Office Management Maintenance and Repair",
+              "sin": ""
+            },
+            {
+              "line": 2,
+              "doc": "A Letter of Supply/Authorization is required under this subcategory and must be issued by the Original Equipment Manufacturer (OEM) to cover the proposed contract period of performance.",
+              "ref": "Office Management_Category_ Attachment A10. Printing and Photographic Equipment Subcategory",
+              "comments": "",
+              "subcategory": "Printing and Photographic Equipment",
+              "sin": ""
+            },
+            {
+              "line": 3,
+              "doc": "Vendor Certification for Electronic Records Management Solutions",
+              "ref": "Office Management _Category_A11. Records Management Subcategory",
+              "comments": "",
+              "subcategory": "Records Management Subcategory",
+              "sin": "518210ERM"
+            },
+            {
+              "line": 4,
+              "doc": "Letter of Compliance for SIN 339940",
+              "ref": "Office Management_Category_ Attachment A09. Office Supplies Subcategory",
+              "comments": "",
+              "subcategory": "Office Supplies",
+              "sin": "339940"
+            },
+            {
+              "line": 5,
+              "doc": "Letter of Compliance for SIN 339940OS4",
+              "ref": "Office Management_Category_ Attachment A09. Office Supplies Subcategory",
+              "comments": "",
+              "subcategory": "Office Supplies",
+              "sin": "339940OS4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facilities",
+      "title": "Facilities",
+      "sourceSheet": "Category B-Facilities",
+      "sections": [
+        {
+          "title": "Facilities",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Companies offering complete facilities maintenance services must provide technical responses that show that they can perform three primary tasks for complete facilities maintenance.",
+              "ref": "Facilities_Category_ Attachment B01. SIN 561210FAC",
+              "comments": "",
+              "subcategory": "Facilities Maintenance and Repair Subcategory",
+              "sin": "561210FAC"
+            },
+            {
+              "line": 2,
+              "doc": "Companies offering fire alarm services must provide specific licenses and certifications.",
+              "ref": "Facilities_Category_ Attachment B01. SIN 561210FAC",
+              "comments": "",
+              "subcategory": "Facilities Maintenance and Repair Subcategory",
+              "sin": "561210FAC"
+            },
+            {
+              "line": 3,
+              "doc": "Companies offering elevator and escalator services must provide specific licenses and certifications.",
+              "ref": "Facilities_Category_ Attachment B01. SIN 561210FAC",
+              "comments": "",
+              "subcategory": "Facilities Maintenance and Repair Subcategory",
+              "sin": "561210FAC"
+            },
+            {
+              "line": 4,
+              "doc": "Insurance is required IAW FAR clause 52.228-5, Insurance - Work on a Government Installation and GSAR clause 552.228-5, Government as Additional Insured. The Contractor shall, at its own expense, procure and thereafter maintain at a minimum the above listed kinds of insurance with respect to performance of services under this SIN. The contractor shall provide a copy of the insurance documents as part of the offer and at the expiration date of the insurance provide an updated copy to the CO.",
+              "ref": "Facilities_Category_ Attachment B01. SIN 561210FAC",
+              "comments": "",
+              "subcategory": "Facilities Maintenance and Repair Subcategory",
+              "sin": "561210FAC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "furniture-and-furnishings",
+      "title": "Furniture and Furnishings",
+      "sourceSheet": "Category C-Furniture",
+      "sections": [
+        {
+          "title": "Furniture and Furnishings",
+          "items": [
+            {
+              "line": 1,
+              "doc": "All Test and Technical Requirements Certification for Furniture  were provided with the proposal.  As Applicable per Subcategory and/ or SIN",
+              "ref": "Furniture and Furnishings_Category_Attachment Instructions",
+              "comments": "",
+              "subcategory": "",
+              "sin": ""
+            }
+          ]
+        },
+        {
+          "title": "Specific Requirements for Packaged Furniture Program",
+          "items": [
+            {
+              "line": 2,
+              "doc": "Offeror has an established corporate history as a project integrator for all types of proposed products. The PCO will make a responsibility determination based on an evaluation of Technical Proposal Factor Four – Relevant Project Experience (Provision SCP-FSS-001 (i) (2) (iv.)",
+              "ref": "Furniture and Furnishings_Category_Attachment  C07. Packaged Furniture Subcategory  (B)",
+              "comments": "",
+              "subcategory": "Packaged Furniture (C07)",
+              "sin": ""
+            },
+            {
+              "line": 3,
+              "doc": "Offeror has proposed a full and broad array of products/services as required by Provision SCP-FSS-001 (i) (3) (vii.)  The PCO has ensured that the vendor has an established sales history for the proposed mix of packaged products and services.  Vendors must provide supporting invoices for each of the referenced projects included in their technical\nproposal.",
+              "ref": "Furniture and Furnishings_Category_Attachment  C07. Packaged Furniture Subcategory  (C)",
+              "comments": "",
+              "subcategory": "Packaged Furniture (C07)",
+              "sin": ""
+            },
+            {
+              "line": 4,
+              "doc": "Offeror has proposed project management and furniture installation services as required. Packaged vendors are permitted to propose any other type of ancillary service necessary to support their packaged solution",
+              "ref": "Furniture and Furnishings_Category_Attachment  C07. Packaged Furniture Subcategory  (D)",
+              "comments": "",
+              "subcategory": "Packaged Furniture (C07)",
+              "sin": ""
+            },
+            {
+              "line": 5,
+              "doc": "Offeror provided: 1) completed Packaged Furniture Schedule Level Contractor Teaming Agreement, signed by the Team Lead and Team\nMember within 12 months of submission to the PCO, and 2) The current GSA Terms and Conditions of the Team Member(s) MAS Contract",
+              "ref": "Furniture and Furnishings_Category_Attachment  C07. Packaged Furniture Subcategory  (E)",
+              "comments": "",
+              "subcategory": "Packaged Furniture (C07)",
+              "sin": ""
+            },
+            {
+              "line": 6,
+              "doc": "Offeror has established a reliable process to ensure that all proposed products comply with the awarded terms and conditions of the supplier’s MAS contract effective at the time an order is placed.",
+              "ref": "Furniture and Furnishings_Category_Attachment  C07. Packaged Furniture Subcategory  (J)",
+              "comments": "",
+              "subcategory": "Packaged Furniture (C07)",
+              "sin": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "human-capital",
+      "title": "Human Capital",
+      "sourceSheet": "Category D-Human Capital (None)",
+      "sections": []
+    },
+    {
+      "id": "industrial-products",
+      "title": "Industrial Products",
+      "sourceSheet": "Category E-Industrial Products",
+      "sections": [
+        {
+          "title": "Industrial Products",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Offeror demonstrated the ability to provide a diverse line of products as would be found in a typical hardware store.",
+              "ref": "Industrial Products and Services_Category_ Attachment E04. SIN 332510, 332510S and 332510C",
+              "comments": "",
+              "subcategory": "Hardware and Tools Subcategory",
+              "sin": "332510, 332510S and 332510C"
+            },
+            {
+              "line": 2,
+              "doc": "Offerors providing rental and leasing demonstrated awareness of additional terms and conditions.",
+              "ref": "Industrial Products and Services_Category_ Attachment E04. SIN 531310",
+              "comments": "",
+              "subcategory": "Hardware and Tools Subcategory",
+              "sin": "532310"
+            },
+            {
+              "line": 3,
+              "doc": "Offeror furnished certification that Vehicle-Mounted Elevating and Rotating Aerial Devices offered are ANSI A92.2 compliant.",
+              "ref": "Industrial Products and Services Category Attachment E06",
+              "comments": "",
+              "subcategory": "Machinery and Compnents",
+              "sin": "333923"
+            },
+            {
+              "line": 4,
+              "doc": "Maintenance and Repair Certifications - Offeror must be designated as authorized service providers by the Original Equipment Manufacturer (OEM) with access to OEM parts, supplies, retrofits and firmware. Proof in the form of letter(s) from manufacturers, service agreements, certificates of authorization to perform repair work, etc., that clearly states that the contract holder/offeror, is certified/authorized to perform service on the brands listed.",
+              "ref": "Industrial Products and Services Category Attachment E06",
+              "comments": "",
+              "subcategory": "Industrial Products and Services Maintenance and Repair",
+              "sin": "811310"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "information-technology",
+      "title": "Information Technology",
+      "sourceSheet": "Category F-IT",
+      "sections": [
+        {
+          "title": "Information Technology",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Commercial Supplier Agreement (CSA)Terms (e.g. standard terms of sales or lease, Terms of Service (TOS), End User License Agreements (EULA), or other similar legal instruments or agreements)",
+              "ref": "Information Technology Category Attachment Section II.2",
+              "comments": "",
+              "subcategory": "Applicable to All",
+              "sin": "Applicable to All"
+            },
+            {
+              "line": 2,
+              "doc": "Letter of Commitment/Supply - (As Applicable) (Products Only)",
+              "ref": "Solicitation Provision SCP-FSS-001 (j) (1) (xi.)",
+              "comments": "",
+              "subcategory": "Applicable to All",
+              "sin": "Applicable to All"
+            },
+            {
+              "line": 3,
+              "doc": "Two (2) Relevant Project Experiences",
+              "ref": "Information Technology Category Attachment Section II.6",
+              "comments": "",
+              "subcategory": "IT Services Subcategory\nIT Solutions Subcategory\nTelecommunications Subcategory\nIT Training Subcategory",
+              "sin": "54151HACS - Highly Adaptive Cybersecurity Services (HACS)\n54151S - Information Technology Professional Services\n54151HEAL – Health Information Technology Services\n561422 - Automated Contact Center Solutions (ACCS)\n518210C - Cloud and Cloud-Related IT Professional Services\n541370 - Earth Observation Solutions\n541519ICAM - Identity, Credentialing and Access Management (ICAM)\n541519PIV – Homeland Security Presidential Directive 12 Product and Service Components\n517312 - Wireless Mobility Solutions\n517410 – Commercial Satellite Communications Solutions (COMSATCOM)\n611420 – Computer Training"
+            },
+            {
+              "line": 4,
+              "doc": "IT Hardware Shipped FOB Destination",
+              "ref": "Information Technology Category Attachment Section II.9",
+              "comments": "",
+              "subcategory": "IT Hardware Subcategory\nIT Solutions Subcategory",
+              "sin": "33411 - Purchasing of new electronic equipment"
+            },
+            {
+              "line": 5,
+              "doc": "Normal commercial installation, operation, maintenance, and engineering interface training on the system shall be provided. If there is a separate charge, it must be stated on the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F01. Electronic Commerce Subcategory",
+              "comments": "",
+              "subcategory": "Electronic Commerce Subcategory",
+              "sin": "54151ECOM Electronic Commerce and Subscription Services"
+            },
+            {
+              "line": 6,
+              "doc": "If an electronic commerce service plan is offered the following must be stated on the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)):\nDescribe the electronic service plan and eligibility requirements;\nDescribe charges, if any, for additional usage guidelines; and\nDescribe corporate volume discounts and eligibility requirements, if any.",
+              "ref": "Information Technology Category Attachment F01. Electronic Commerce Subcategory",
+              "comments": "",
+              "subcategory": "Electronic Commerce Subcategory",
+              "sin": "54151ECOM Electronic Commerce and Subscription Services"
+            },
+            {
+              "line": 7,
+              "doc": "Installation and Technical Services for new or used/refurbished equipment.\nOfferors shall indicate in the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)): \nif the equipment is self-installable; and/or \nIf the equipment is not self-installable, include any fees for installation, training, or maintenance. \nOfferors should provide commercial practices for installation, deinstallation and/or reinstallation for review and possible inclusion in the contract.",
+              "ref": "Information Technology Category Attachment F02. IT Hardware Subcategory",
+              "comments": "",
+              "subcategory": "IT Hardware Subcategory",
+              "sin": "33411 - Purchasing of new electronic equipment"
+            },
+            {
+              "line": 8,
+              "doc": "The terms and conditions for each lease option type(s) offered shall be attached to the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F02. IT Hardware Subcategory",
+              "comments": "",
+              "subcategory": "IT Hardware Subcategory",
+              "sin": "532420L Leasing of New Electronic Equipment"
+            },
+            {
+              "line": 9,
+              "doc": "a. Hardware maintenance and/or Service Repair is available, and allow for additional information to\ncomplete the \"fill-in\" to the terms and conditions.\ni. Repair Service Order Terms available at www.gsa.gov/mascategoryrequirements\nii. Maintenance Order Terms available at www.gsa.gov/mascategoryrequirements\na. The terms and conditions for each option type(s) offered shall be attached to the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F02. IT Hardware Subcategory",
+              "comments": "",
+              "subcategory": "IT Hardware Subcategory",
+              "sin": "811212 Computer and Office Machine Repair and Maintenance"
+            },
+            {
+              "line": 10,
+              "doc": "Offerors shall provide a description of each type of IT Professional Service or Labor Category offered, and it should be presented in the same manner as the Contractor sells to its commercial and other ordering activity customers. If the Contractor is proposing hourly rates, a description of all corresponding commercial job titles (labor categories) for those individuals who will perform the service.",
+              "ref": "Information Technology Category Attachment F03. IT Services Subcategory",
+              "comments": "",
+              "subcategory": "IT Services Subcategory",
+              "sin": "54151HACS Highly Adaptive Cybersecurity Services (HACS)\n54151HEAL Health Information Technology Services\n54151S Information Technology Professional Services"
+            },
+            {
+              "line": 11,
+              "doc": "Offerors shall include in the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date) a complete description of each software product including the operating systems on which the software can be used. Also included shall be a brief, introductory explanation of the modules and documentation which are offered.",
+              "ref": "Information Technology Category Attachment F04. IT Software Subcategory",
+              "comments": "",
+              "subcategory": "IT Software Subcategory",
+              "sin": "511210 Software Licenses\n54151 Software Maintenance Services"
+            },
+            {
+              "line": 12,
+              "doc": "Right-to-Copy Pricing: Offerors shall insert the discounted pricing for right-to-copy licenses, if commercially available, in the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F04. IT Software Subcategory",
+              "comments": "",
+              "subcategory": "IT Software Subcategory",
+              "sin": "511210 Software Licenses\n54151 Software Maintenance Services"
+            },
+            {
+              "line": 13,
+              "doc": "Term License Cessation\ni.) After a software product has been on a continuous term license for a period of ______ (Fill-in the period of time.) months, a fully paid-up, non-exclusive, perpetual license for the software product shall automatically accrue to the ordering activity. The period of continuous term license for automatic accrual of a fully paid-up perpetual license does not have to be achieved during a particular fiscal year; it is a written Contractor commitment which continues to be available for software that is initially ordered under this contract, until a fully paid-up perpetual license accrues to the ordering activity. However, should the term license of the software be discontinued before the specified period of the continuous term license has been satisfied, the perpetual license accrual shall be forfeited. Contractors who do not commercially offer conversions of term licenses to perpetual licenses shall indicate that their term licenses are not eligible for conversion at any time. ii.) Each separately priced software product shall be individually enumerated, if different accrual periods apply for the purpose of perpetual license attainment.\niii.) Fill-in data and specific terms shall be attached to the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F04. IT Software Subcategory",
+              "comments": "",
+              "subcategory": "IT Software Subcategory",
+              "sin": "511210 Software Licenses"
+            },
+            {
+              "line": 14,
+              "doc": "Software Asset Identification Tags (SWID) (Option 1 Perpetual License), if applicable",
+              "ref": "Information Technology Category Attachment F04. IT Software Subcategory",
+              "comments": "",
+              "subcategory": "IT Software Subcategory",
+              "sin": "511211 Software Licenses"
+            },
+            {
+              "line": 15,
+              "doc": "Reallocation of Perpetual Software (Option 2 Perpetual License), if applicable",
+              "ref": "Information Technology Category Attachment F04. IT Software Subcategory",
+              "comments": "",
+              "subcategory": "IT Software Subcategory",
+              "sin": "511212 Software Licenses"
+            },
+            {
+              "line": 16,
+              "doc": "For Solutions SINs that offer IT Professional Services - Offerors shall provide a description of each type of IT Professional Service or Labor Category offered, and it should be presented in the same manner as the Contractor sells to its commercial and other ordering activity customers. If the Contractor is proposing hourly rates, a description of all corresponding commercial job titles (labor categories) for those individuals who will perform the service.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "518210C Cloud and Cloud-Related IT Professional Services\n541370GEO Earth Observation Solutions\n541519ICAM Identity, Credentialing and Access Management (ICAM)\n561422 Automated Contact Center Solutions (ACCS)"
+            },
+            {
+              "line": 17,
+              "doc": "i.) If training is provided in accordance with standard commercial practices, the offeror shall provide normal commercial installation, operation, maintenance, and engineering interface training on the system. \nii.) f there are separate training charges, it should be included in the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "518210C Cloud and Cloud-Related IT Professional Services"
+            },
+            {
+              "line": 18,
+              "doc": "Cloud Computing Services Adherence to Essential Cloud Characteristics: Within a two page limitation for each cloud service submitted, provide a description of how the cloud computing service meets each of the five essential cloud computing characteristics as defined in National Institute of Standards and Technology (NIST) Special Publication 800-145 and subsequent versions of this publication.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "518210C Cloud and Cloud-Related IT Professional Services"
+            },
+            {
+              "line": 19,
+              "doc": "Cloud Computing Services Deployment Model: For each cloud service submitted, provide a written description of how the proposed service meets the NIST definition of a particular deployment model (Public, Private, Community, or Hybrid), within a one half (1/2) page limitation for each designated deployment model of each cloud service submitted. Multiple deployment model selection is permitted, but at least one model must be indicated.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "518210C Cloud and Cloud-Related IT Professional Services"
+            },
+            {
+              "line": 20,
+              "doc": "Cloud Computing Services Service Model: For each cloud computing service proposed to be categorized under a specific sub-category (IaaS, PaaS or SaaS), provide a written description of how the proposed service meets the NIST definition of that service model, within a half (1/2) page limitation for each cloud service submitted.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "518210C Cloud and Cloud-Related IT Professional Services"
+            },
+            {
+              "line": 21,
+              "doc": "a) Description Of Authentication Products, Services And Pricing\ni) Offerors shall provide a description of each type of Authentication Product and Service offered.\nii) Authentication Products and Services shall be offered in accordance with standard commercial practice.\niii) Pricing for all Authentication Products and Services shall be in accordance with standard commercial practices; e.g., hourly rates, monthly rates, term rates, and/or fixed prices.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "541519ICAM - Identity, Credentialing and Access Management (ICAM)"
+            },
+            {
+              "line": 22,
+              "doc": "a) Description Of Authentication Products, Services And Pricing\ni) Offerors shall provide a description of each type of Authentication Product and Service offered.\nii) Authentication Products and Services shall be offered in accordance with standard commercial practice.\niii) Pricing for all Authentication Products and Services shall be in accordance with standard commercial practices; e.g., hourly rates, monthly rates, term rates, and/or fixed prices.",
+              "ref": "Information Technology Category Attachment F05. IT Solutions Subcategory",
+              "comments": "",
+              "subcategory": "IT Solutions Subcategory",
+              "sin": "541519PKI Public Key Infrastructure (PKI) Shared Service Providers (PKI SSP) Program"
+            },
+            {
+              "line": 23,
+              "doc": "Offerors shall provide the following information for each training course offered:\nA) course title,\nB) a brief description of the course content, to include the course format (e.g., lecture, discussion, hands-on training);\nC) length of the course;\nD) mandatory and desirable prerequisites for student enrollment;\nE) minimum and maximum number of students per class;\nF) locations where the course is offered;\nG) class schedules; and\nH) price (per student, per class (if applicable)).",
+              "ref": "Information Technology Category Attachment F06. IT Training Subcategory",
+              "comments": "",
+              "subcategory": "IT Training Subcategory",
+              "sin": "611420 Information Technology Training"
+            },
+            {
+              "line": 24,
+              "doc": "Offerors shall describe any training provided with equipment and/or software provided under this contract, free of charge on the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).",
+              "ref": "Information Technology Category Attachment F06. IT Training Subcategory",
+              "comments": "",
+              "subcategory": "IT Training Subcategory",
+              "sin": "611420 Information Technology Training"
+            },
+            {
+              "line": 25,
+              "doc": "Wireless Service Plans\ni) The following shall be included on the GSA Price List (I-FSS-600 CONTRACT PRICE LISTS (see most current Solicitation for clause effective date)).\nii) Describe the wireless service plan and eligibility requirements. Including, but not limited to, service area, monthly service charge, minutes included, etc.\niii) Describe charges, if any, for additional minutes, domestic wireless long distance, roaming, nights and weekends, etc.\niv) Describe corporate volume discounts and eligibility requirements, if any.",
+              "ref": "Information Technology Category Attachment F07. Telecommunications Subcategory",
+              "comments": "",
+              "subcategory": "Telecommunications Subcategory",
+              "sin": "517312 Wireless Mobility Solutions"
+            },
+            {
+              "line": 26,
+              "doc": "Description of COMSATCOM Transponded Capacity and Pricing\no Proposed prices shall show Bandwidth ranges (example: 0 - 4.5 MHz, 4.5 – 9.0 MHz, etc.), unit price and region (example: North America, Africa). NOTE: If pricing is for different time periods (example: day, week, month, or year) provide that information.\no Suggestion: Use regions instead of satellite names to reduce the number of contract modifications.\no If applicable, provide at least one Worldwide Host Nation Agreement (HNA) description and ceiling price.\no If applicable, price other non-standard required licenses and agreements in the same manner as HNAs.\no Provide sufficient performance metrics for the offered COMSATCOM transponded capacity services to ensure proper delivery of service. Metrics examples: service\navailability (example: 97.5%, 99.5%), grade of service, minimum service levels, quality of service, time to restore service, etc.\no Indicate price inclusions and exclusions for each priced service (example: portability, re- grooming, etc.).\no Description of services and prices shall include all services necessary to use the transponded capacity, including: limited engineering (example: development of link\nbudgets, transmission plans); basic customer training (example: acquiring satellite signal, peak and polarization); core management and control of the transponded capacity; and\nrequired approvals (example: frequency clearances, landing rights).",
+              "ref": "Information Technology Category Attachment F07. Telecommunications Subcategory",
+              "comments": "",
+              "subcategory": "Telecommunications Subcategory",
+              "sin": "517410 Commercial Satellite Communications Solutions (COMSATCOM)"
+            },
+            {
+              "line": 27,
+              "doc": "Description of COMSATCOM Subscription Services and Pricing\no If applicable, provide third party billing service description with a ceiling price (example: per megabyte price, per minute price).\no Describe Fixed Satellite Subscription Services by regions, bandwidth ranges, data rate ranges, per unit pricing and/or flat rate service packages, when applicable.\no Identify oversubscription rates, standard quality of service (QoS) profiles, and service availability targets.\no Describe Mobile Satellite Subscription Services in the standard commercial format (i.e., per unit pricing and/or flat rate service packages, etc.)\no If applicable, describe and price non-recurring charges (example: service activation).\no The Government reserves the right to use Government Furnished Access Point Names (APN) for remote user access into Government user networks and enclaves instead of\nusing those provided by Offerors. Offeror should describe and separately price value added services that can be used in conjunction with Government Furnished APNs.\no Equipment provided as part of the Subscription Services is acceptable. NOTE: Equipment can be leased or purchased through the IT Equipment Subcategory SINs.\no Offeror shall provide sufficient performance metrics for the offered COMSATCOM subscription services to ensure proper delivery of service. Metrics examples: service availability, grade of service, minimum service levels, quality of service, time to restore service, etc.\no Indicate price inclusions and exclusions for each priced service (example: portability, regrooming, committed information rates (CIR), etc.).\no Description of services and prices shall include all services necessary to use the Subscription Services, including: network management, monitoring, engineering, integration, and operations required to deliver the services.",
+              "ref": "Information Technology Category Attachment F07. Telecommunications Subcategory",
+              "comments": "",
+              "subcategory": "Telecommunications Subcategory",
+              "sin": "517410 Commercial Satellite Communications Solutions (COMSATCOM)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "miscellaneous",
+      "title": "Miscellaneous",
+      "sourceSheet": "Category G-MISC",
+      "sections": [
+        {
+          "title": "Miscellaneous",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Ancillary supplies and/or services are support supplies and/or services which are not within the scope of any other SIN on this schedule. These supplies and/or services are necessary to compliment a contractor's offerings to provide a solution to a customer requirement.",
+              "ref": "Miscellaneous_Category_Attachment  G06. Complimentary SINs Subcategory",
+              "comments": "",
+              "subcategory": "Complimentary SINs",
+              "sin": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "professional-services",
+      "title": "Professional Services",
+      "sourceSheet": "Category H-Prof Services",
+      "sections": [
+        {
+          "title": "Professional Services",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Hazardous Waste Disposal - vendor has submitted documentation of waste disposal methods.  If offering e-waste recycling, vendor submitted  third party certification.",
+              "ref": "Professional Services_Category_Attachment (Instruction 1 under SIN description)",
+              "comments": "",
+              "subcategory": "Environmental Services",
+              "sin": "SIN 562112"
+            },
+            {
+              "line": 2,
+              "doc": "Environmental Remediation Services - vendor has submitted documentation of transportation, storage, treatment, and/or waste disposal methods of hazardous wastes.",
+              "ref": "Professional Services_Category_Attachment (Instruction 1 under SIN description)",
+              "comments": "",
+              "subcategory": "Environmental Services",
+              "sin": "SIN 562910REM"
+            },
+            {
+              "line": 3,
+              "doc": "Vendor has submitted 1) a list of states/territories/foreign countries in which it has a CPA license; and 2) a copy of its most recently completed peer review report and any internal documents issued to address corrective action for noted deficiencies).  If firm is proposing only transporation audits, firm must only submit attachment stating it is proposing transporation audits only and does not possess a CPA license and peer review report.",
+              "ref": "Professional Services_Category_Attachment (Instructions under SIN description)",
+              "comments": "",
+              "subcategory": "Financial Services",
+              "sin": "SIN 541211"
+            },
+            {
+              "line": 4,
+              "doc": "Data Breach Response and Identity Protection - offeror submitted required documents 1A, 1B, 1C, and Pricing Document 2.  NOTE:  This SIN requires review by Professional Services staff ONLY.  Offers containing this SIN submitted to acquisition centers other than PSHC must contact Kristann Montague at kristann.montague@gsa.gov to coordinate SIN review by PSHC.",
+              "ref": "Professional Services_Category_Attachment (Instructions under SIN description)",
+              "comments": "",
+              "subcategory": "Identity Protection Services",
+              "sin": "SIN 541990IPS"
+            },
+            {
+              "line": 5,
+              "doc": "Off-the-Shelf Training Devices and Training Materials - offeror submitted  the following:  1) copy of reseller agreement if applicable from each publisher/manufacturer; 2) copy of commercial end user licensing agreement, if any; 3) copy of commercial service agreement, if any; 4) copy of end user systems requirements; 5) copy of manufacturer's authorization to resell/distribute, if applicable; and 5) statement that live ammunition is not used in any training product.",
+              "ref": "Professional Services_Category_Attachment (Instructions under SIN description)",
+              "comments": "",
+              "subcategory": "Training",
+              "sin": "SIN 333318TDTM"
+            },
+            {
+              "line": 6,
+              "doc": "Defense Acquisition Workforce Improvement Act (DAWIA) and Federal Acquisition Certification in Contracting (FAC-C) Professional Development Trainin for Acquisition Workforce Personnel -  - offeror submitted  the following:  1) copy of DAU Equivalency and/or FAI Verification issued for each course offered; 2) resumes of all proposed instructors; 3) a detailed training plan evidencing how instructors are kept up to date and conversant with federal acquisition regulations on a continous basis; and 4) references from the last 3 customers.",
+              "ref": "Professional Services_Category_Attachment (Instructions under SIN description)",
+              "comments": "",
+              "subcategory": "Training",
+              "sin": "SIN 611TRAINAW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scientific",
+      "title": "Scientific",
+      "sourceSheet": "Category I-Scientific (None)",
+      "sections": []
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "sourceSheet": "Category J-Security (None)",
+      "sections": []
+    },
+    {
+      "id": "transportation",
+      "title": "Transportation",
+      "sourceSheet": "Category K-Transportation",
+      "sections": [
+        {
+          "title": "Transportation",
+          "items": [
+            {
+              "line": 1,
+              "doc": "Fire Fighting Vehicles- the offeror shall furnish evidence that the vehicles offered are fully NFPA or FAA compliant as applicable: (1)NFPA 1901 compliant Command, Pumper, Initial Attack, Mobile Water Supply, Aerial, Quint, Special Service, and Mobile Foam Apparatus. (2) NFPA 414 & FAA Circular 150/5220-10 compliant Aircraft Rescue and Fire Fighting Vehicles (3) NFPA 1906 compliant Wildland Fire Apparatus (4) NFPA 1901 & 1912 compliant Custom Fire Fighting Chassis and Fire Fighting Vehicle Glider Kits",
+              "ref": "Transportation and Logistics Services Category Attachment - K02",
+              "comments": "",
+              "subcategory": "Motor Vehicles (non-Combat)",
+              "sin": "3361 - Law Enforcement and Fire Fighting Vehicles and Attachments"
+            },
+            {
+              "line": 2,
+              "doc": "Vocational Vehicles-the offer shall provide certification that: (1) Mobile Waste, Recyclable Materials Collection, Transportation, and Compaction Equipment are ANSI Z245.1 compliant. (2)Utility & Telecom Construction Equipment and Attachments are ANSI A92.2 compliant.",
+              "ref": "Transportation and Logistics Services Category Attachment - K02",
+              "comments": "",
+              "subcategory": "Motor Vehicles (non-Combat)",
+              "sin": "3361V - Vocational Vehicles"
+            },
+            {
+              "line": 3,
+              "doc": "The offeror shall furnish proof the vehicles offered are fully FMVSS 500 tested and compliant.",
+              "ref": "Transportation and Logistics Services Category Attachment - K02 and  www.gsa.gov/mascategoryrequirements for the SIN requirement",
+              "comments": "",
+              "subcategory": "Motor Vehicles (non-Combat)",
+              "sin": "33611 - Purchase or Lease of Gas or Electric Low Speed Vehicles"
+            },
+            {
+              "line": 4,
+              "doc": "Fuel and Petroleum Tank Trucks- the offeror shall furnish evidence that the vehicles offered are fully NFPA 385 & 487 compliant.",
+              "ref": "Transportation and Logistics Services Category Attachment - K02",
+              "comments": "",
+              "subcategory": "Motor Vehicles (non-Combat)",
+              "sin": "336211 - Tank Trucks"
+            },
+            {
+              "line": 5,
+              "doc": "The offeror shall furnish test results from the US EPA Aftermarket Retrofit Device Evaluation Program (511 Program), or EPA's Environmental Technology Verification Program, as applicable, for evaluation of aftermarket devices that manufacturers claim will improve fuel economy and/or reduce exhaust emissions.",
+              "ref": "Transportation and Logistics Services Category Attachment - K02",
+              "comments": "",
+              "subcategory": "Motor Vehicles (non-Combat)",
+              "sin": "3363P - Spare Components and Vehicle Accessories"
+            },
+            {
+              "line": 6,
+              "doc": "All Technical Requirements were provided with the proposal as Applicable per Subcategory and/ or SIN",
+              "ref": "Transportation and Logistics Services Category Attachment and  www.gsa.gov/mascategoryrequirements for the SIN requirement",
+              "comments": "",
+              "subcategory": "All",
+              "sin": "SIN 485, 33611, 532112, 492110, 492110SB, 532111, 481211B, 481211O"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "sourceSheet": "Category L-Travel",
+      "sections": [
+        {
+          "title": "Travel",
+          "items": [
+            {
+              "line": 1,
+              "doc": "All Technical Requirements were provided with the proposal as Applicable per Subcategory and/ or SIN",
+              "ref": "Travel Category Attachment and  www.gsa.gov/mascategoryrequirements for the SIN requirement",
+              "comments": "SINs 531, 541511T, 531110, 561599L, 561510, 561599",
+              "subcategory": "All",
+              "sin": "All"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

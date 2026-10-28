@@ -1,0 +1,6 @@
+# Line endings: LF in the repository regardless of the checkout OS.
+# (The original project showed every text file dirty on extraction
+# because the committed files were LF and the worktree was CRLF.)
+* text=auto eol=lf
+*.xlsx binary
+*.pdf binary
